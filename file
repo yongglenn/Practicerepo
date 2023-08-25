@@ -1,3 +1,6 @@
 this is file1
 this is line two 
 this is just for testing 
+learning differences between a Pull Request and Fork 
+a pill request is proposing chnages made on a recipotary or project for review before merging its to the main or master branch 
+while a fork is getting a entire repository or project working independing of the main project 
